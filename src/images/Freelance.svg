@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="119" width="413.5">
+  <g opacity="1">
+    <g>
+      <text opacity="1" font-size="0" transform="translate(0, 0)">
+        <tspan fill="rgb(242,242,242)" font-size="121" font-family="SignPainter" font-weight="400" style="white-space: pre;text-transform: none" x="10.60899999999998" y="85">Freelance!</tspan>
+      </text>
+    </g>
+    <g opacity="1">
+      <ellipse fill="rgb(242,242,242)" fill-opacity="1" opacity="1" rx="9.5" ry="10" cx="104" cy="10"/>
+    </g>
+    <g opacity="1">
+      <ellipse fill="rgb(242,242,242)" fill-opacity="1" opacity="1" rx="9.5" ry="10" cx="215.25" cy="99"/>
+    </g>
+    <g opacity="1">
+      <ellipse fill="rgb(242,242,242)" fill-opacity="1" opacity="1" rx="5" ry="5" cx="111.5" cy="114"/>
+    </g>
+    <g opacity="1">
+      <ellipse fill="rgb(242,242,242)" fill-opacity="1" opacity="1" rx="5" ry="5" cx="370" cy="94"/>
+    </g>
+    <g opacity="1">
+      <ellipse fill="rgb(242,242,242)" fill-opacity="1" opacity="1" rx="5" ry="5" cx="16.5" cy="89"/>
+    </g>
+    <g opacity="1">
+      <ellipse fill="rgb(242,242,242)" fill-opacity="1" opacity="1" rx="5" ry="5" cx="265" cy="20"/>
+    </g>
+  </g>
+</svg>
